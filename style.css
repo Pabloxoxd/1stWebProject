@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(to right, rgb(115, 193, 207), white);
+    font: normal 15pt Arial;
+    
+
+}
+header{
+    color: rgb(170, 67, 49);
+    text-align: center;
+    margin-top: 25px;
+    font-size: 30pt;
+    font-family:inherit;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+    font-size: 35px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+div#hour{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+div#good{
+    margin-top: 75px;
+    margin-bottom: 10px;
+    font-size: 40pt;
+}
+
+img.mage{
+    border-radius: 50%;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px rgb(26, 26, 31);
+    
+}
+
+footer{
+    margin-top: 50px;
+}
