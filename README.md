@@ -7,4 +7,5 @@ It consists in a page that shows the hour automaticly and switch the image and t
 If you want to see it working in other moments of the day:
 Just change the variable "h" at line 30 of script.js file
 
-changing this  var h = time.getHours();  --> to this  var h = put the time you want //time.getHours();
+at line 30: 
+switching this  var h = time.getHours();  --> to this  var h = put the time you want //time.getHours();
