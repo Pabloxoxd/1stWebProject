@@ -27,7 +27,7 @@ var time = new Date();
 var d = time.getDate();
 var m = time.getMonth();
 var y = time.getFullYear();
-var h = time.getHours();
+var h = time.getHours();  // <-- change here to see changes
 var min = time.getMinutes();
 
 
